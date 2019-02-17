@@ -1,2 +1,2 @@
-# shryhary.github.io
+# harinet.github.io
 pages
