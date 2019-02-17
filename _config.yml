@@ -2,7 +2,7 @@ title: SRI HARI
 description: 
 google_analytics: UA-62834316-1
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
